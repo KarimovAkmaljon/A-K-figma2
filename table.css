@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 1180px;
+    margin: auto; 
+    padding: 200px;
+}
+
+table {
+    color: rgb(131, 76, 208);
+}
+
+h2 {
+    padding-bottom: 40px;
+}
+
+table {
+    font-family: Arial,  sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td
+th {
+border: 1px solid  royalblue;
+text-align: left;
+padding: 18px;
+}
+
+h2 {
+    text-align: center;
+    color: rgb(244, 42, 11);
+}
+
+tr:nth-child(odd) {
+    background-color: rgb(212, 212, 225);
+}

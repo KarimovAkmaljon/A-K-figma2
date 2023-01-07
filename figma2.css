@@ -1,0 +1,273 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+
+
+body {
+
+    font-family: 'Roboto', sans-serif;
+}
+
+.link {
+    height: 36px;
+left: 0%;
+right: 0%;
+top: 0px;
+
+background: #FFFFEF;
+border-radius: 0px;
+}
+
+.container {
+    width: 1328px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+    margin-top:38px ;
+
+}
+.nav {
+    display: flex;
+    column-gap: 50px;
+
+}
+
+.icons {
+    display: flex;
+    column-gap: 20px;
+}
+
+.bacgront-rasm {
+
+}
+
+.header-rasm  {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    flex-direction: column;
+    gap: 30px ;
+    border: 16px solid wheat;
+    background-image: url(/heder2-rasm.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+    padding-right: 64px;
+    padding-bottom: 64px;
+    margin-top: 20px;
+}
+
+.header-rasm p {
+
+    width: 179px;
+height: 22px;
+right: 0px;
+top: 398.5px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+text-align: right;
+letter-spacing: 1.8px;
+color: #2a2c20;
+}
+
+.header-rasm button {
+    width: 150px;
+    height: 56px;
+    left: 0%;
+    right: 0%;
+    top: 0px;
+
+    background: #56593D;
+    border-radius: 0px;
+}
+
+.paragrff {
+width: 1194px;
+height: 243px;
+left: calc(50% - 1194px/2);
+top: 6.5px;
+margin: 115px 20px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+
+line-height: 81px;
+text-align: center;
+color: #56593D;
+
+}
+.paragraph-text{
+    font-size: 57px;
+}
+.paragraph-buttons{
+    display: flex;
+    justify-content: center;
+    column-gap: 68px;
+    margin-top: 20px;
+    color: #10100b;
+}
+
+.paragraph-button {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-decoration: none;
+    text-align: center;
+    letter-spacing: 1.6px;
+
+    color: #56593D;
+
+}
+
+.coler-bac {
+    height: 680px;
+    background-color: antiquewhite;
+}
+
+.h1-matn h1 {
+text-align: center;
+color: #e2172ff6;
+padding-top: 50px;
+  }
+
+  .cardlar {
+   display: flex;
+   justify-content: center;
+   gap: 35px;
+   margin-top: 80px;
+  }
+
+.card1 {
+    text-align: center;
+}
+.card2 {
+    text-align: center;
+}
+.card3 {
+    text-align: center;
+}
+
+.ota1 {
+  text-align: center;
+
+ height: 700px;
+left: 0%;
+right: 0%;
+top: -0.16px;
+background-image: url(./secwin4.png);
+padding-top: 50px;
+border-radius: 0px;
+gap: 20px;
+}
+
+.secshn4 {
+    padding-top: 20px;
+}
+
+.ota1-teax h1 {
+    padding-top: 20px;
+}
+
+.kartinka  {
+    padding-top: 20px;
+}
+.ota-kartnka  { 
+    height: 100vh;
+    display: flex;
+    background-color: #FFFFEF
+}
+
+.ota-ong h1, .ota-ong p {    
+text-align: center;
+padding-top: 50px;
+padding-left: 200px;
+ 
+}
+
+.kartinka2 {
+    padding-top: 25px;
+}
+
+.ota-kartnka2 {
+    display: flex;
+    padding-top: 20px;
+    background: #FFFFEF;
+}
+
+.ota-chap2 {
+    padding-left:225px;
+}
+.ota-chap2 img  {
+    width: 743px;
+    height: 885px;
+}
+
+.sait-qsm {
+    padding-top: 60px;
+}
+
+
+
+.ota-ong3 {
+    text-align: center;
+    padding-left: 100px;
+    padding-top:55px ;
+}
+.ota-ong3 p {
+    padding-top: 60px;
+}
+
+
+
+
+.ota-kat {
+    display: flex;
+   
+}
+
+.biri  {
+    text-align: center;
+    height: 200px;
+    background-color: #FFFFEF;
+    justify-items: center;
+    padding-top: 50px;
+    gap: 30px;
+}
+.biri p { 
+    padding-top: 35px;
+}
+
+.kartinka h1 {
+    text-align: center;
+    padding-top: 35px;
+}
+.kartinka-4 {
+    display: flex;
+    padding-top: 40px;
+} 
+
+.pustoy {
+    width: 100%;
+    height: 200px;
+    background: #edede9;
+}
+
+.pustoy,h1 {
+    text-align: center;
+    padding-top: 40px;
+}
